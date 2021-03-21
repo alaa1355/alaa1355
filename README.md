@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on research.
-- 🌱 I’m currently learning javascript and python.
+- 🌱 I’m currently learning javascript.
 - 👯 I’m looking to collaborate on that leverage the power of cloud computing using Javascript Ecosystems.
 - 🤔 I’m looking for help with any of the above.
 - 💬 Ask me about ...   I'm a beginner in programming
